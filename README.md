@@ -7,4 +7,4 @@ This project folder (repository) contains code files and instuctions for getting
 
 
 More detailed information about this project can be found at this link -
-https://rebrand.ly/webapp_learn_start
+http://learn.gallery/webapp_learn_start
